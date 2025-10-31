@@ -1,0 +1,5 @@
+Algoritmo,Accuracy,Precision,Recall,F1-Score
+Decision Tree,0.953,0.955,0.937,0.946
+K-Neighbors,0.688,0.648,0.635,0.642
+Logistic_Regression,0.871,0.867,0.834,0.851
+Randon_Forest,0.964,0.974,0.944,0.959

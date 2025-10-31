@@ -1,0 +1,11 @@
+Algoritmo,R2,MSE,RMSE,MAE,MAPE
+Decision_Tree_Regressor,0.09,442.848,21.044,16.83,7.883
+Linear_Regression - ElasticNet,0.051,461.988,21.494,17.144,8.531
+Linear_Regression - Lasso,0.051,461.988,21.494,17.144,8.531
+Linear_Regression - Ridge,0.051,461.988,21.494,17.144,8.531
+Linear_Regression,0.051,461.988,21.494,17.144,8.531
+Polynomial_Regression - ElasticNet,0.05,462.367,21.503,17.049,8.604
+Polynomial_Regression - Lasso,0.056,459.535,21.437,17.016,8.575
+Polynomial_Regression - Ridge,0.09,442.889,21.045,16.741,8.305
+Polynomial_Regression,0.091,442.641,21.039,16.736,8.277
+Random_Forest_Regressor,0.404,290.071,17.031,12.254,6.32
