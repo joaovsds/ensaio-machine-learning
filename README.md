@@ -82,7 +82,7 @@ img/val_class.png)
  ![classificacao_teste]( img/test_class.png)
  ## Ensaio de regressão:
  ### Sobre os dados de treinamento
- ![regressao_treinamento]( img/tran_reg.png)
+ ![regressao_treinamento]( img/train_reg.png)
  ### Sobre os dados de validação
  ![regressao_validacao]( img/val_reg.png)
  ### Sobre os dados de teste
